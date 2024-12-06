@@ -8,7 +8,7 @@
   "vaultPassword": "VeevaVault!",
   "vaultDNS": "sandbox.veevavault.com",
   "vaultSessionId": "",
-  "vaultClientId": "Vault-Java-SDK-Common-Services-Example",
+  "vaultClientId": "Vault-Java-SDK-Hello-World-Example",
   "vaultOauthClientId": "",
   "vaultOauthProfileId": "",
   "logApiErrors": true,
